@@ -1,0 +1,16 @@
+
+Future Work
+
+1. Evaluate Deep Learning models such as LSTM and Transformer.
+
+2. Investigate real-time intrusion detection systems.
+
+3. Apply Explainable AI to Zero-Day attack detection.
+
+4. Compare SHAP with Integrated Gradients and Anchors.
+
+5. Deploy the framework in cloud-based environments.
+
+6. Extend the framework using online learning algorithms.
+
+7. Evaluate the framework on newer cybersecurity datasets.

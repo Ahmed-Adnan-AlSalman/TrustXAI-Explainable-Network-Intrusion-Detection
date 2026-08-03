@@ -1,0 +1,23 @@
+
+Conclusion
+
+This project proposed an Explainable Artificial Intelligence framework
+for multiclass intrusion detection using the CICIDS2017 dataset.
+
+Two machine learning algorithms were evaluated:
+Random Forest and XGBoost.
+
+Experimental results showed that XGBoost achieved the highest
+classification performance with:
+
+Accuracy : 99.18%
+Precision: 99.19%
+Recall   : 99.18%
+F1 Score : 99.18%
+
+The integration of SHAP and LIME significantly improved model
+interpretability, allowing security analysts to understand why
+specific attacks were detected.
+
+Overall, the proposed framework provides accurate, interpretable,
+and reliable cyber attack detection.

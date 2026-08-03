@@ -1,0 +1,23 @@
+
+
+Final Results Summary
+
+Best Model:
+XGBoost
+
+Accuracy:
+0.9918
+
+Precision:
+0.9919
+
+Recall:
+0.9918
+
+F1 Score:
+0.9918
+
+Conclusion:
+
+XGBoost achieved the highest overall performance among all evaluated models.
+

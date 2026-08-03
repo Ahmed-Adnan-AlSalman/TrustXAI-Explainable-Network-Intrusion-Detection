@@ -1,0 +1,19 @@
+
+Discussion
+
+The experimental results demonstrate that both Random Forest and XGBoost
+achieved excellent performance in multiclass network intrusion detection.
+
+Although Random Forest achieved high classification accuracy, XGBoost
+consistently outperformed it across all evaluation metrics.
+
+The superior performance of XGBoost can be attributed to its gradient
+boosting mechanism, which effectively captures complex nonlinear
+relationships between network traffic features.
+
+Furthermore, the Explainable AI techniques (SHAP and LIME) confirmed that
+the model decisions were mainly influenced by meaningful network traffic
+features rather than random attributes.
+
+This increases the transparency and trustworthiness of the proposed
+intrusion detection system.
