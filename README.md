@@ -1,54 +1,83 @@
-# TrustXAI: Explainable AI Framework for Multiclass Network Intrusion Detection
+# TrustXAI: Explainable Network Intrusion Detection
+
+An Explainable Artificial Intelligence (XAI) framework for multiclass network intrusion detection using Machine Learning and Explainable AI techniques.
+
+---
 
 ## Overview
 
-TrustXAI is an Explainable Artificial Intelligence (XAI) framework designed for multiclass network intrusion detection using the CICIDS2017 dataset.
+TrustXAI is a cybersecurity research project that combines machine learning with Explainable Artificial Intelligence (XAI) to classify network attacks while providing transparent explanations for every prediction.
 
-The project combines powerful machine learning algorithms with explainable AI techniques to improve transparency and trust in cybersecurity systems.
+The framework evaluates multiple machine learning algorithms and explains their decisions using SHAP and LIME.
 
 ---
 
 ## Features
 
 - Multiclass Network Intrusion Detection
-- Explainable Artificial Intelligence (XAI)
+- Data Cleaning & Preprocessing
+- Feature Engineering
 - Random Forest Classifier
 - XGBoost Classifier
-- SHAP Explainability
-- LIME Explainability
-- Performance Evaluation
-- IEEE-style Research Paper
-
----
-
-## Dataset
-
-- CICIDS2017 Dataset
+- Model Comparison
+- Explainable AI (SHAP)
+- Explainable AI (LIME)
+- Feature Importance Analysis
+- Confusion Matrix Visualization
 
 ---
 
 ## Technologies
 
 - Python
+- Jupyter Notebook
 - Scikit-learn
 - XGBoost
-- SHAP
-- LIME
 - Pandas
 - NumPy
 - Matplotlib
+- SHAP
+- LIME
 
 ---
 
-## Repository Structure
+## Project Structure
 
 ```
-images/
-paper/
-results/
-notebooks/
-src/
+TrustXAI-Explainable-Network-Intrusion-Detection
+│
+├── notebooks/
+├── src/
+├── paper/
+├── results/
+├── images/
+├── LICENSE
+└── README.md
 ```
+
+---
+
+## Research Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Data Preprocessing
+4. Model Training
+5. Model Evaluation
+6. Explainability using SHAP
+7. Explainability using LIME
+8. Performance Comparison
+
+---
+
+## Repository Contents
+
+- Research Paper
+- Jupyter Notebooks
+- Source Code
+- Experimental Results
+- Figures
+- Performance Evaluation
 
 ---
 
@@ -56,14 +85,12 @@ src/
 
 Ahmed Adnan Al-Salman
 
-BSc (Hons) Cyber Security & Networking Engineering
+Cybersecurity & Networking Engineer
 
-University of Central Lancashire (UCLan)
+AI & Explainable AI Researcher
 
-Basra, Iraq
+LinkedIn:
+https://linkedin.com/in/ahmedadnan93
 
----
-
-## License
-
-MIT License
+GitHub:
+https://github.com/Ahmed-Adnan-AlSalman
